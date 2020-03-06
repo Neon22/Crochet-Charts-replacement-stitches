@@ -6,6 +6,8 @@ We will be using a mechanism that loads new stitches whenever Crochet Charts is 
 To do this we will be adding stitches into the configuraton directory. This directory has not been used by users before.
 
 # Procedure: #
+The insructions below may seem daunting and lengthy. There is a concise set of instructions in the file 'concise instructions.md' which is very short and concise but relies on you knowing something about Windows operating system and configuration folders. If you are not comfortable with these concise instructons then use the long winded ones below. They will lead you safely step by step through the procedure.
+
 ### Preparation
 #### 1. Find your configuration directory.
 
