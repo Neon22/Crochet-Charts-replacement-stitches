@@ -18,7 +18,7 @@ Make sure Crochet Charts is not running.
     - the xml files will add the stitch files (after you have got the config file setup in the step 5)
  4. Unzip all the stitch files into the newstitches folder
     - no subdirectories, all svg files at top level in newstitches folder.
- 5. Run all the batch files 
+ 5. Run all the batch files (double click on them)
     - except far.bat which is called by each bat file to rename the config directory within each xml file.
  6. Open Crochet Charts
  7. Navigate to the Stitch Library (ctr-L) or 'Tools/Stitch Library'
