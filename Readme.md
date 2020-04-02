@@ -6,7 +6,7 @@ We will be using a mechanism that loads new stitches whenever Crochet Charts is 
 To do this we will be adding stitches into the configuraton directory. This directory has not been used by users before.
 
 # Procedure: #
-The insructions below may seem daunting and lengthy. There is a concise set of instructions in the file 'concise instructions.md' which is very short and concise but relies on you knowing something about Windows operating system and configuration folders. If you are not comfortable with these concise instructons then use the long winded ones below. They will lead you safely step by step through the procedure.
+The insructions below may seem daunting and lengthy. There is a **concise set of instructions in the file** 'concise instructions.md' which is very short and concise but relies on you knowing something about Windows operating system and configuration folders. If you are not comfortable with these concise instructons then use the long winded ones below. They will lead you safely step by step through the procedure.
 
 ### Preparation
 #### 1. Find your configuration directory.
@@ -79,14 +79,45 @@ These symbols include: start, end, blo, flo, and 8 arrows to be used between row
     6. Double click on the directions.bat file.
        - A text window will open for a few seconds and then close.
        - This will edit the xml file and get the config directory properly connected so the new stitches can be found.
+    7. Start Crochet Charts.
+    8. Navigate to the Stitch Library (ctr-L) or 'Tools/Stitch Library'
+    9. Select 'Stitch Source:' Direction stitches (It defaults to 'Default Stitches')
+    10. You will see 12 or so stitches with 'Category' saying 'directions'.
+    11. Select each stitch (tick in checkbox) until all are selected.
+    12. Click on 'Add To List' to set/swap these stitches for the ones in Default.
+        - You will be prompted to replace any existing stitches just like with the Tunisians above.
+    13. Select 'Stitch source' = Default
+    14. You can now see the directions stitches along with with all of the others.
+        - by clicking on the category column header you can sort stitches to the top or bottom (click twice).
+    15. Close the Stitch Library and select stitches as normal.
+    
+
+#### 4. Installing sc (single crochet) symbols.
+
+This is a set of symbols replacing teh existing sc symbols and adding a couple of new ones.
+
+    1. Close Crochet Charts if it's open.
+    2. Download the following files into your configuration directory.
+       - far.bat         - internal tool - finds and replaces config directory (you should already have this now)
+       - sc.xml  - description of new stitches
+       - sc.bat  - will rename directory in xml file
+       - sc.png  - just to look at
+       - sc.zip  - the new stitch symbols
+    3. Move the sc.zip file into the newstitches directory.
+    4. Go into the newstitches directory and unzip the files so they all appear in there as a long list.
+       - You will see a number of new stitch symbols as svg files in the newstitches directory.
+    5. Double click on the sc.bat file.
+       - A text window will open for a few seconds and then close.
+       - This will edit the xml file and get the config directory properly connected so the new stitches can be found.
     6. Start Crochet Charts.
     7. Navigate to the Stitch Library (ctr-L) or 'Tools/Stitch Library'
-    8. Select 'Stitch Source:' Direction stitches (It defaults to 'Default Stitches')
-    9. You will see 12 or so stitches with 'Category' saying 'directions'.
+    8. Select 'Stitch Source:' sc stitches (It defaults to 'Default Stitches')
+    9. You will see stitches with 'Category' saying 'single crochet'.
     10. Select each stitch (tick in checkbox) until all are selected.
     11. Click on 'Add To List' to set/swap these stitches for the ones in Default.
-        - You will be prompted to replace any existing stitches just like with the Tunisians above.
-    15. Select 'Stitch source' = Default
-    16. You can now see the directions stitches along with with all of the others.
+        - You will be prompted to replace any existing stitches just like as above.
+    12. Select 'Stitch source' = Default
+    13. You can now see the sc stitches along with with all of the others.
         - by clicking on the category column header you can sort stitches to the top or bottom (click twice).
-    17. Close the Stitch Library and select stitches as normal.
+    14. Close the Stitch Library and select stitches as normal.
+    
