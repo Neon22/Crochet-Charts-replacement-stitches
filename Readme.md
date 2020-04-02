@@ -92,9 +92,9 @@ These symbols include: start, end, blo, flo, and 8 arrows to be used between row
     15. Close the Stitch Library and select stitches as normal.
     
 
-#### 4. Installing sc (single crochet) symbols.
+#### 5. Installing sc (single crochet) symbols.
 
-This is a set of symbols replacing teh existing sc symbols and adding a couple of new ones.
+This is a set of symbols replacing the existing sc symbols and adding a couple of new ones.
 
     1. Close Crochet Charts if it's open.
     2. Download the following files into your configuration directory.
