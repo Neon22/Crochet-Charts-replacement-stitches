@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<stitch_set>
+    <name>sc stitches</name>
+    <author>Neon22</author>
+    <email></email>
+    <org></org>
+    <url>https://github.com/Neon22/Crochet-Charts-replacement-stitches</url>
+	<stitch>
+        <name>sc</name>
+        <icon>./newstitches/sc.svg</icon>
+        <description>single crochet</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>scv</name>
+        <icon>./newstitches/scv.svg</icon>
+        <description>single crochet variant</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>scblo</name>
+        <icon>./newstitches/scblo.svg</icon>
+        <description>single crochet back loop only</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>scflo</name>
+        <icon>./newstitches/scflo.svg</icon>
+        <description>single crochet front loop only</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>screverse</name>
+        <icon>./newstitches/sc_reverse.svg</icon>
+        <description>single crochet reversed</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>twistedsc</name>
+        <icon>./newstitches/twisted_sc.svg</icon>
+        <description>twisted single crochet</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>split sc</name>
+        <icon>./newstitches/split_sc.svg</icon>
+        <description>split single crochet</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>esc</name>
+        <icon>./newstitches/esc.svg</icon>
+        <description>extended single crochet</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>fsc</name>
+        <icon>./newstitches/fsc.svg</icon>
+        <description>foundation single crochet</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>BPsc</name>
+        <icon>./newstitches/BPsc.svg</icon>
+        <description>Back Post single crochet</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>FPsc</name>
+        <icon>./newstitches/FPsc.svg</icon>
+        <description>Front Post single crochet</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>2FPsc</name>
+        <icon>./newstitches/2FPsc.svg</icon>
+        <description>Front Post single crochet double</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>2BPsc</name>
+        <icon>./newstitches/2BPsc.svg</icon>
+        <description>Back Post single crochet double</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>FPsc2tog</name>
+        <icon>./newstitches/FPsc2tog.svg</icon>
+        <description>Front Post single crochet decrease</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>BPsc2tog</name>
+        <icon>./newstitches/BPsc2tog.svg</icon>
+        <description>Back Post single crochet decrease</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>sc2tog</name>
+        <icon>./newstitches/sc2tog.svg</icon>
+        <description>single crochet decrease</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>sc3tog</name>
+        <icon>./newstitches/sc3tog.svg</icon>
+        <description>single crochet 3 together</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>sc4tog</name>
+        <icon>./newstitches/sc4tog.svg</icon>
+        <description>single crochet 4 together</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>sc5tog</name>
+        <icon>./newstitches/sc5tog.svg</icon>
+        <description>single crochet 5 together</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>sc5togv</name>
+        <icon>./newstitches/sc5togv.svg</icon>
+        <description>single crochet 5 together variant</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>sc spike</name>
+        <icon>./newstitches/scspike.svg</icon>
+        <description>single crochet spike stitch</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>sc spikev</name>
+        <icon>./newstitches/scspikev.svg</icon>
+        <description>single crochet spike stitch variant</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>sc spikev2</name>
+        <icon>./newstitches/scspikev2.svg</icon>
+        <description>single crochet spike stitch variant</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	
+</stitch_set>
