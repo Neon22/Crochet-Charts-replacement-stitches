@@ -98,7 +98,7 @@ This is a set of symbols replacing the existing sc symbols and adding a couple o
 
     1. Close Crochet Charts if it's open.
     2. Download the following files into your configuration directory.
-       - far.bat         - internal tool - finds and replaces config directory (you should already have this now)
+       - far.bat - (you should already have this from previous steps)
        - sc.xml  - description of new stitches
        - sc.bat  - will rename directory in xml file
        - sc.png  - just to look at
