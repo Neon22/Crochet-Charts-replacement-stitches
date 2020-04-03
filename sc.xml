@@ -14,34 +14,34 @@
     </stitch>
 	<stitch>
         <name>scv</name>
-        <icon>./newstitches/scv.svg</icon>
+        <icon>./newstitches/sc_v.svg</icon>
         <description>single crochet variant</description>
         <category>sc</category>
         <ws></ws>
     </stitch>
 	<stitch>
-        <name>scblo</name>
+        <name>sc blo</name>
         <icon>./newstitches/scblo.svg</icon>
         <description>single crochet back loop only</description>
         <category>sc</category>
         <ws></ws>
     </stitch>
 	<stitch>
-        <name>scflo</name>
+        <name>sc flo</name>
         <icon>./newstitches/scflo.svg</icon>
         <description>single crochet front loop only</description>
         <category>sc</category>
         <ws></ws>
     </stitch>
 	<stitch>
-        <name>screverse</name>
+        <name>reverse sc</name>
         <icon>./newstitches/sc_reverse.svg</icon>
         <description>single crochet reversed</description>
         <category>sc</category>
         <ws></ws>
     </stitch>
 	<stitch>
-        <name>twistedsc</name>
+        <name>twisted sc</name>
         <icon>./newstitches/twisted_sc.svg</icon>
         <description>twisted single crochet</description>
         <category>sc</category>
@@ -55,7 +55,7 @@
         <ws></ws>
     </stitch>
 	<stitch>
-        <name>esc</name>
+        <name>ext sc</name>
         <icon>./newstitches/esc.svg</icon>
         <description>extended single crochet</description>
         <category>sc</category>
@@ -163,6 +163,20 @@
         <name>sc spikev2</name>
         <icon>./newstitches/scspikev2.svg</icon>
         <description>single crochet spike stitch variant</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>2 sc in 1 st</name>
+        <icon>./newstitches/sc2inc.svg</icon>
+        <description>single crochet increase</description>
+        <category>sc</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>3 sc in 1 st</name>
+        <icon>./newstitches/sc3inc.svg</icon>
+        <description>single crochet 3 in 1 increase</description>
         <category>sc</category>
         <ws></ws>
     </stitch>
