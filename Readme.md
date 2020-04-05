@@ -5,6 +5,9 @@ Within Crochet charts you can import a **set** of new symbols, or update an icon
 We will be using a mechanism that loads new stitches whenever Crochet Charts is opened.
 To do this we will be adding stitches into the configuraton directory. This directory has not been used by users before.
 
+Discussion and the state of this repo can be fonud on Ravelry here:
+- https://www.ravelry.com/discuss/stitch-works-software/4001017/1-25#3
+
 # Procedure: #
 The insructions below may seem daunting and lengthy. There is a **concise set of instructions in the file** 'concise instructions.md' which is very short and concise but relies on you knowing something about Windows operating system and configuration folders. If you are not comfortable with these concise instructons then use the long winded ones below. They will lead you safely step by step through the procedure.
 
@@ -24,6 +27,7 @@ On Windows its found in a folder like this:
 
 On the Mac look in here:
    - ??
+   - If you have a mac and you know - please respond in this forum: https://www.ravelry.com/discuss/stitch-works-software/topics
    
 #### 2. Backup your current changes.
 
